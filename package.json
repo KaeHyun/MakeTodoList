@@ -1,0 +1,17 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "My Electron app",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^12.0.6"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.54"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "kaehyun",
+  "license": "ISC"
+}
