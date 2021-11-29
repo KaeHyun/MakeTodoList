@@ -1,1 +1,1 @@
-# SKKU_TodoList
+# TodoList with HTML + Javascript
